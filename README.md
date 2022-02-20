@@ -30,4 +30,4 @@ Utilizei o template Template 2082 Pure Mix: http://www.tooplate.com/view/2082-pu
 ✅ Concluído
 
 ## 🚀 Links 
-- Site produzido: [Link](https://rmftelier.github.io/pezzodamore/")
+- Site produzido: [Link](https://rmftelier.github.io/pezzodamore/)
